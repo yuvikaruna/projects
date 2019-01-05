@@ -7,9 +7,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Modifications are made in Master branch ,then running *ng build* command ,dist folder is created which is then deployed to gh-pages
+Modifications are made in Master branch ,then by running *ng build* command ,dist folder is created which is then deployed to gh-pages
 branch.
  
 ## Build
 
-Run `npm run deploy` to build the project and deploy changes to [yuvikaruna.github.io/projects/]
+Shortcut to build and deploy to gh-pages branch ,scripts given in package.json
+
+Run `npm run deploy` to build the project and deploy changes to yuvikaruna.github.io/projects/
