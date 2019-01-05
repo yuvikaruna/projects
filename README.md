@@ -1,7 +1,7 @@
 #  Projects
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.2.and deployed to URL : 
-### [yuvikaruna/projects](yuvikaruna.github.io/projects)
+### [yuvikaruna/projects](https://yuvikaruna.github.io/projects)
 
 ## Development server
 
@@ -14,4 +14,4 @@ branch.
 
 Shortcut to build and deploy to gh-pages branch ,scripts given in package.json
 
-Run `npm run deploy` to build the project and deploy changes to [yuvikaruna.github.io/projects/](yuvikaruna.github.io/projects/)
+Run `npm run deploy` to build the project and deploy changes to [https://yuvikaruna.github.io/projects/](https://yuvikaruna.github.io/projects/)
