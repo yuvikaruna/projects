@@ -14,4 +14,4 @@ branch.
 
 Shortcut to build and deploy to gh-pages branch ,scripts given in package.json
 
-Run `npm run deploy` to build the project and deploy changes to yuvikaruna.github.io/projects/
+Run `npm run deploy` to build the project and deploy changes to [yuvikaruna.github.io/projects/](yuvikaruna.github.io/projects/)
